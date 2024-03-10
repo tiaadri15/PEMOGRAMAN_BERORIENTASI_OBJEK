@@ -20,11 +20,4 @@ public class Hotel_Reservation{
         this.check_in = check_in; 
         this.check_out = check_out;
     }
-
-    public String CustomerName(){
-        return customer_name;
-    }
-
-
 }
-
