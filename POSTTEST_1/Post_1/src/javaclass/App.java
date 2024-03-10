@@ -29,7 +29,7 @@ public class App {
     public static void Rooms(){
         clearScreen();
         System.out.println("===================================");
-        System.out.println("        R O O M S    T Y P E       ");
+        System.out.println("        R O O M     T Y P E S      ");
         System.out.println("===================================");
         System.out.println("         1. SINGLE ROOM            ");
         System.out.println("         2. TWIN ROOM              ");
